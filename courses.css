@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sep {
+    padding: 10px;
+}
+
+.sep img {
+    width: 450px;
+    height: 300px;
+}
+.sep a {
+    text-decoration: none;
+}
+
+.sep h3 {
+    font-size: 19px;
+    color: brown;
+}
+
+.sep p {
+    margin-top: 20px;
+    font-size: 20px;
+}
